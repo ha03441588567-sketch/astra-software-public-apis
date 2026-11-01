@@ -135,6 +135,7 @@ A collective, categorized list of free public APIs for software and web developm
 ## Entertainment
 | API | Description | Auth | HTTPS |
 |---|---|---|---|
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily travel or life-experience idea with canonical URL and image; Dutch by default | No | Yes |
 | [Chuck Norris](https://api.chucknorris.io/) | Chuck Norris jokes | No | Yes |
 | [Trivia API](https://opentdb.com/) | Trivia questions | No | Yes |
 | [PokéAPI](https://pokeapi.co/) | Pokémon data | No | Yes |
